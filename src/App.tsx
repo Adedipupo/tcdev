@@ -1,7 +1,6 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
 import './App.css'
-import Homepage from './pages/Homepage/homepage'
+import Homepage from './pages/Homepage/Homepage'
 
 function App() {
 
